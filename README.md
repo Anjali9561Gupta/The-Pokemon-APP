@@ -7,7 +7,7 @@
 
 
 Key Features:
-
+.
 
 
 1. Implemented a dynamic search feature for quick Pokémon lookup by name or type.
